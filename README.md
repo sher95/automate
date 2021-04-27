@@ -1,4 +1,4 @@
-# Automate of website of Kapital Bank
+# Automate website of Kapital Bank
 
 It was created fastly thats why not look like a perfect code)).
 
